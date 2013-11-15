@@ -1,0 +1,20 @@
+{
+  "name": "focusable-elements",
+  "repo": "stephenmathieson/focusable-elements",
+  "description": "Get focusable elements",
+  "version": "0.0.0",
+  "keywords": [ "focus", "focusable" ],
+  "dependencies": {
+    "stephenmathieson/is-focusable": "*",
+    "stephenmathieson/descendants": "*"
+  },
+  "development": {
+    "component/assert": "*"
+  },
+  "license": "MIT",
+  "main": "index.js",
+  "scripts": [
+    "index.js"
+  ],
+  "remotes": []
+}
