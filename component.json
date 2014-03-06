@@ -2,7 +2,7 @@
   "name": "focusable-elements",
   "repo": "stephenmathieson/focusable-elements",
   "description": "Get focusable elements",
-  "version": "0.0.0",
+  "version": "0.0.1",
   "keywords": [ "focus", "focusable" ],
   "dependencies": {
     "stephenmathieson/is-focusable": "*",
